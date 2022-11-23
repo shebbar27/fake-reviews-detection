@@ -22,11 +22,13 @@ Repository Structure:
     data: contains data obtained from 'Deceptive Opinion Spam Corpus'
     
 How to execute:
-This repository is designed to be executed on Google Colab platform.
-Clone the repository and upload it to Google Drive under 'Colab Notebooks' directorty.
-Navigate to the required *.ipynb Colab notebook to be executed and launch it in Colab.
 
-Execute outside Google Colab on a local machine:
-The source code expects entire repository to be present with a root path '/content/drive/My Drive/Colab Notebooks/'
-All the paths for loading/saving data uses this root path as the prefix.
-Remove the root path prefixes from all the references and then the scripts can be executed in Jupyter Notebook.
+- This repository is designed to be executed on Google Colab platform.
+- Clone the repository and upload it to Google Drive under 'Colab Notebooks' directorty.
+- Navigate to the required *.ipynb Colab notebook to be executed and launch it in Colab.
+
+- Execute outside Google Colab on a local machine:
+
+    - The source code expects entire repository to be present with a root path '/content/drive/My Drive/Colab Notebooks/'.
+    - All the paths for loading/saving data uses this root path as the prefix.
+    - Remove the root path prefixes from all the references and then the scripts can be executed in Jupyter Notebook.
