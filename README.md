@@ -3,6 +3,7 @@
 The objective of this project is to use machine learning techniques to classify user reviews obtained from 'Deceptive Opinion Spam Corpus' dataset as deceptive or thruthful and evaluate the performance of different approaches.
 
 Repository Structure:
+    
     source
     ├── bag-of-words
     │   └── bag_of_words_classifier.ipynb -> Colab notebook implementing PCA-SVM model and Random Forest model
